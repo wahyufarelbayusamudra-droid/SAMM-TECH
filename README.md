@@ -1,1 +1,1 @@
-# SAMM-TECH
+# SAM
